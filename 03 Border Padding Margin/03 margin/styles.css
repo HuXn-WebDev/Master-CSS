@@ -1,0 +1,12 @@
+/* ******************************************** */
+/* ------- MARGIN, TOP, BOTTOM, LEFT, RIGHT ------- */
+/* ------- MARGIN SHORTHAND ------- */
+h3 {
+  border: 2px solid brown;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin: 20px 30px;
+}
+/* ******************************************** */
