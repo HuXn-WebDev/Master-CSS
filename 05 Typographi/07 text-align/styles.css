@@ -1,0 +1,9 @@
+/* text-align: direction (start, end, left, right, center) */
+
+h1 {
+  /* text-align: left; */
+  /* text-align: right; */
+  text-align: center;
+  /* text-align: start; */
+  /* text-align: end; */
+}
