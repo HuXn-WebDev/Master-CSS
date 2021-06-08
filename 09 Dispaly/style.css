@@ -1,0 +1,43 @@
+/* block */
+/* inline */
+/* inline-block */
+
+* {
+  margin: 0;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  margin: 30px;
+  padding: 3px;
+  color: #000;
+  border-bottom: 2px solid teal;
+}
+
+img {
+  margin: 0 auto;
+  margin-top: 40px;
+  display: block;
+  border-radius: 50%;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+.card {
+  display: inline-block;
+  background-color: darkcyan;
+  color: #fff;
+  width: 40%;
+  padding: 20px;
+  margin: 20px;
+}

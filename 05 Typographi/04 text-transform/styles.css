@@ -1,8 +1,0 @@
-/* text-transform: cases (uppercase, lowercase, capitalize, none) */
-
-h1 {
-  text-transform: uppercase;
-  /* text-transform: lowercase; */
-  /* text-transform: capitalize; */
-  /* text-transform: none; */
-}
