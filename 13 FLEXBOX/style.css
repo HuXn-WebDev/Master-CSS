@@ -1,0 +1,46 @@
+/* ************************************************* */
+/* Display flex */
+/* Flex Direction */
+/* Flex Wrap */
+/* Flex Flow */
+/* Justify Content */
+/* Align Items */
+/* Align Content */
+
+/* Align Slef */
+/* Order */
+/* Flex Grow */
+/* Flex Shrink */
+/* ************************************************* */
+.three {
+  /* align-self: center; */
+  /* order: 2; */
+  /* flex-grow: 2; */
+  flex-shrink: 3;
+}
+
+.two {
+  flex-shrink: 4;
+}
+
+.container {
+  height: 40rem;
+  border: 2px solid green;
+  display: flex;
+  /* flex-flow: row wrap; */
+  /* flex-direction: column-reverse; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* align-content: space-around; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  background: greenyellow;
+  width: 10rem;
+  height: 5rem;
+  margin: 5px;
+  text-align: center;
+}

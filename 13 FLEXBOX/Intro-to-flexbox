@@ -1,0 +1,11 @@
+FLEXBOX
+    -> Modren Layout Mode in CSS3
+    -> Only work with 1 dimension Layout
+    -> Change the order of the elements without changing it's content
+    -> Vertical Centering
+
+Main-axis
+    -> row
+
+Cross-axis
+    -> column
